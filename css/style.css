@@ -1,0 +1,60 @@
+body{
+	margin:0;
+	font-family: "黑體","Heiti TC","微軟正黑體", "Microsoft JhengHei";
+	background-image: url("../img/metabolism-01.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	
+}
+body .clear{
+	height:20px;
+}
+p, ul{
+	font-size: 24px;
+	line-height: 36px;
+	color: gray;
+	letter-spacing: 1.5px;
+
+}
+#section1 a:hover{
+	color:yellow;
+	
+}
+#section1{
+	height: 110%;
+}
+#section2{
+	background-image: url("../img/white-strips.png");
+	background-repeat: no-repeat;
+	color: hsla(235, 0%, 78%, 1);
+	background-size: cover;
+	height:550px;
+	text-align: center;
+	padding-top: 50px;
+}
+#section3{
+	background-color: white;
+	height:1250px;	
+}
+#section4{
+	background-color: hsla(227, 47%, 60%, 1);
+	height:1100px;
+	
+}
+#section5{
+	background-color: hsla(42, 100%, 65%, 1);
+	height:1200px;
+	
+}
+#section6{
+	background-color: hsla(228, 30%, 19%, 1);
+	height:900px;
+	color:white;
+}
+#circle1,#circle2,#circle3,#circle4{
+	font-size: 50px;
+	border-style:none;
+	background-color: transparent;
+	padding: 0;
+}
